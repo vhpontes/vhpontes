@@ -13,4 +13,4 @@ Here are some ideas to get you started:
 -->
 - 🌱 I’m currently learning LUA for GTA Fivem resources...
 - 💬 Ask me about everthing
-- 📫 How to reach me: In a live stream in twitch.tv/lechuck311
+- 📫 How to reach me: In a live stream in [twitch.tv/lechuck311](https://www.twitch.tv/lechuck311)
