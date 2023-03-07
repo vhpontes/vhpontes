@@ -25,7 +25,7 @@ About me:
 
 
 ### 📕 Stats
-<img align="left" alt="LeChuck's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=vhpontes&show_icons=true&theme=dark&locale=en&title_color=a600ff&icon_color=ff0088&text_color=32004d" />
+<img align="left" alt="LeChuck's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=vhpontes&show_icons=true&theme=dark&locale=en" />
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vhpontes&layout=compact&langs_count=7&theme=dark"/>
 
 
